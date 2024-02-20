@@ -1,0 +1,1 @@
+Carthage/Checkouts/swift-sourcery/Scripts/swiftformat.sh
